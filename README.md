@@ -1,4 +1,6 @@
 # Advanced Deep Learning with TensorFlow 2 and Keras (Updated for 2nd Edition)
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/53dcbf5b-97b6-4356-b028-c1dd5bb41963.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/advanced-deep-learning-with-keras?orgId=561911742905)  
 This is the code repository for [Advanced Deep Learning with TensoFlow 2 and Keras](https://www.packtpub.com/programming/advanced-deep-learning-with-tensorflow-2-and-keras-second-edition), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish. 
 
 **Please note that the code examples have been updated to support TensorFlow 2.0 Keras API only.**
